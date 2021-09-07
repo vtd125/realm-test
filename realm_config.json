@@ -1,7 +1,7 @@
 {
-    "app_id": "application-11-mdurl",
+    "app_id": "application-5-bubbg",
     "config_version": 20210101,
-    "name": "Application-11",
+    "name": "Application-5",
     "location": "US-VA",
-    "deployment_model": "LOCAL"
+    "deployment_model": "GLOBAL"
 }
