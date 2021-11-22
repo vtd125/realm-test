@@ -1,9 +1,0 @@
-{
-    "name": "vmdbsvc",
-    "type": "mongodb",
-    "config": {},
-    "secret_config": {
-        "uri": "__vmdbsvc_uri"
-    },
-    "version": 1
-}
